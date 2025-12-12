@@ -21,7 +21,7 @@
 
 from .area_weighted_distribution import area_weighted_distribution
 from .random_face import random_face
-from .point_sample import point_sample, point_sample_v2
+from .point_sample import point_sample, point_sample_per_tech
 from .sample_surface import sample_surface
 from .sample_near_surface import sample_near_surface
 from .sample_uniform import sample_uniform
